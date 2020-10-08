@@ -1,0 +1,24 @@
+{
+  "name": "ReactGitExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "g.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitty": "node g.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunda-R/ReactGitExample.git"
+  },
+  "keywords": [],
+  "author": "Brunda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brunda-R/ReactGitExample/issues"
+  },
+  "homepage": "https://github.com/Brunda-R/ReactGitExample#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
